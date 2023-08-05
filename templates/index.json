@@ -1,0 +1,356 @@
+{
+  "sections": {
+    "a09415e6-5144-47a3-9135-156b39430a2f": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bossal-stores"
+          }
+        },
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "gineer-tasty-grills"
+          }
+        },
+        "639c34fa-fdb6-415a-b1e7-66ccac38019f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "wonderland-foods"
+          }
+        },
+        "89c63927-f832-4db0-9b74-e8ff35fe5f08": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pebs-confectionaries"
+          }
+        },
+        "3c49e0c4-0102-46b1-9263-e8ef8976b40f": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "carte-tastiva-protein-shake"
+          }
+        },
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "reigners-kitchen"
+          }
+        },
+        "d3cfbcbb-89bf-4ff5-9831-a3af4535d329": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "veecakes-n-cuisine"
+          }
+        },
+        "46c2978f-8e69-4e17-a988-e633545d9664": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "piibites-pastry"
+          }
+        },
+        "7c89eb85-d0fa-45a8-ba49-23de0b1adda7": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "amabella-confectionary"
+          }
+        },
+        "f36ec650-460f-41f5-b0a9-0bc1d4d22185": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "lulus-chow"
+          }
+        },
+        "2b31f89b-84a3-4781-a098-2deb5d127488": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ruth-cakes-and-pastries"
+          }
+        },
+        "44ff26a3-4864-4453-93f4-3c00a98c6d4e": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "d-yummies-healthy-diets-and-parfait"
+          }
+        },
+        "65a8c797-2bb9-474b-9949-8d0fdc526896": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "diva-cake-delight"
+          }
+        },
+        "eee44e07-f483-4ae1-85d6-1e77e6169739": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "janie-cakes-and-desserts"
+          }
+        }
+      },
+      "block_order": [
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-0",
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-1",
+        "639c34fa-fdb6-415a-b1e7-66ccac38019f",
+        "89c63927-f832-4db0-9b74-e8ff35fe5f08",
+        "3c49e0c4-0102-46b1-9263-e8ef8976b40f",
+        "template--19825246863671__a09415e6-5144-47a3-9135-156b39430a2f-16888645010144d4ef-2",
+        "d3cfbcbb-89bf-4ff5-9831-a3af4535d329",
+        "46c2978f-8e69-4e17-a988-e633545d9664",
+        "7c89eb85-d0fa-45a8-ba49-23de0b1adda7",
+        "f36ec650-460f-41f5-b0a9-0bc1d4d22185",
+        "2b31f89b-84a3-4781-a098-2deb5d127488",
+        "44ff26a3-4864-4453-93f4-3c00a98c6d4e",
+        "65a8c797-2bb9-474b-9949-8d0fdc526896",
+        "eee44e07-f483-4ae1-85d6-1e77e6169739"
+      ],
+      "settings": {
+        "title": "Food Vendors",
+        "heading_size": "h1",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "37374649-9b01-4413-87b7-26fa1637faf3": {
+      "type": "collection-list",
+      "blocks": {
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cakes"
+          }
+        },
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "drinks-1"
+          }
+        },
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "biscuits"
+          }
+        },
+        "36eac03d-1247-4799-95f7-2ac65741e5dd": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "bread"
+          }
+        },
+        "88901886-0f8d-41f7-b21c-00c3d41231a4": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cereals"
+          }
+        },
+        "b173df8e-5c31-403e-9450-2a51ee3a7ba9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "cooked-dishes"
+          }
+        },
+        "57a62aec-0b43-40b2-afec-9481f13b6586": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "custard"
+          }
+        },
+        "8898d1ee-a799-4660-887b-5bddba371c60": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "snacks"
+          }
+        },
+        "c09f036b-199b-40b4-8b11-8f377fd52605": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "grains"
+          }
+        },
+        "73082fb4-e676-4701-b8cc-ca5a93d9fee3": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "groceries"
+          }
+        },
+        "39909c87-36e0-4280-b96b-bc959bc57db2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "ice-cream"
+          }
+        },
+        "64c6f4db-74b8-4854-95ef-66a7c9931440": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "oil"
+          }
+        },
+        "e9ee599a-6995-46f3-8ebf-de053e72caa1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pastries"
+          }
+        },
+        "456429e2-0bea-46dc-abd3-9d00101c3291": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "pet-food"
+          }
+        },
+        "7e20beff-0a02-44fc-aafe-24b2a0afcbb9": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "spreads"
+          }
+        }
+      },
+      "block_order": [
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-0",
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-1",
+        "template--19825246863671__37374649-9b01-4413-87b7-26fa1637faf3-16888677941101da25-2",
+        "36eac03d-1247-4799-95f7-2ac65741e5dd",
+        "88901886-0f8d-41f7-b21c-00c3d41231a4",
+        "b173df8e-5c31-403e-9450-2a51ee3a7ba9",
+        "57a62aec-0b43-40b2-afec-9481f13b6586",
+        "8898d1ee-a799-4660-887b-5bddba371c60",
+        "c09f036b-199b-40b4-8b11-8f377fd52605",
+        "73082fb4-e676-4701-b8cc-ca5a93d9fee3",
+        "39909c87-36e0-4280-b96b-bc959bc57db2",
+        "64c6f4db-74b8-4854-95ef-66a7c9931440",
+        "e9ee599a-6995-46f3-8ebf-de053e72caa1",
+        "456429e2-0bea-46dc-abd3-9d00101c3291",
+        "7e20beff-0a02-44fc-aafe-24b2a0afcbb9"
+      ],
+      "settings": {
+        "title": "More Categories",
+        "heading_size": "h2",
+        "image_ratio": "square",
+        "columns_desktop": 5,
+        "color_scheme": "",
+        "show_view_all": true,
+        "columns_mobile": "2",
+        "swipe_on_mobile": true,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
+    "2acc6402-7526-4376-b9b6-5dcfcbc6a0d7": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "cooked-dishes",
+        "products_to_show": 25,
+        "columns_desktop": 3,
+        "full_width": false,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": true,
+        "color_scheme": "",
+        "image_ratio": "square",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": true,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 12,
+        "padding_bottom": 0
+      }
+    },
+    "611e2a38-aaed-4217-8ac3-300182ab1c3e": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "bossal-stores",
+        "products_to_show": 25,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "0e019926-85c1-4bf5-bab2-c54dff410e7e": {
+      "type": "image-banner",
+      "blocks": {
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start selling your product now",
+            "heading_size": "h1"
+          }
+        },
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-1": {
+          "type": "text",
+          "settings": {
+            "text": "Let's set up a meeting with our team to get you started as a food vendor on Foodhunch. We're excited to help you begin earning and support your journey",
+            "text_style": "body"
+          }
+        },
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-2": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Let's talk on Whatsapp",
+            "button_link_1": "https:\/\/wa.link\/wpueqt",
+            "button_style_secondary_1": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-0",
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-1",
+        "template--19825246863671__0e019926-85c1-4bf5-bab2-c54dff410e7e-1688457766fc458046-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/Slide_16_9_-_1_2.png",
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "desktop_content_position": "middle-center",
+        "show_text_box": true,
+        "desktop_content_alignment": "center",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": true
+      }
+    }
+  },
+  "order": [
+    "a09415e6-5144-47a3-9135-156b39430a2f",
+    "37374649-9b01-4413-87b7-26fa1637faf3",
+    "2acc6402-7526-4376-b9b6-5dcfcbc6a0d7",
+    "611e2a38-aaed-4217-8ac3-300182ab1c3e",
+    "0e019926-85c1-4bf5-bab2-c54dff410e7e"
+  ]
+}

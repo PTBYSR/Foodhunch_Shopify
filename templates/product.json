@@ -1,0 +1,161 @@
+{
+  "sections": {
+    "main": {
+      "type": "main-product",
+      "blocks": {
+        "vendor": {
+          "type": "text",
+          "settings": {
+            "text": "{{ product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title": {
+          "type": "title",
+          "settings": {
+          }
+        },
+        "ddc05536-1e5b-4900-8b58-fc8472ffec31": {
+          "type": "shopify:\/\/apps\/rivo-product-reviews-app-ugc\/blocks\/star-rating\/5f785e18-66cc-4519-8181-565d1cce1705",
+          "settings": {
+          }
+        },
+        "price": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "quantity_selector": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "a8dbb3a5-7141-46e0-ae7a-f79018268a65": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": "<p><span style=\"font-weight: bold; color: #000000;\">DISCLAIMER<\/span>: <br \/>DELIVERY ONLY WITHIN  <span style=\"font-weight:bold\">NSUKKA, ENUGU<\/span><\/p>"
+          }
+        },
+        "buy_buttons": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": false
+          }
+        },
+        "f5840582-c154-4760-bad2-0917c74df9ed": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        },
+        "fdeb6cad-4d2d-428e-a99a-3af6a910a4fe": {
+          "type": "popup",
+          "disabled": true,
+          "settings": {
+            "text": "SITE UNDER MAINTENACE",
+            "page": "thank-you"
+          }
+        },
+        "description": {
+          "type": "description",
+          "settings": {
+          }
+        },
+        "share": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share this product to your friends"
+          }
+        },
+        "6a1efb09-4cc0-4ae1-971e-078d79cc4f78": {
+          "type": "custom_liquid",
+          "settings": {
+            "custom_liquid": ""
+          }
+        }
+      },
+      "block_order": [
+        "vendor",
+        "title",
+        "ddc05536-1e5b-4900-8b58-fc8472ffec31",
+        "price",
+        "variant_picker",
+        "quantity_selector",
+        "a8dbb3a5-7141-46e0-ae7a-f79018268a65",
+        "buy_buttons",
+        "f5840582-c154-4760-bad2-0917c74df9ed",
+        "fdeb6cad-4d2d-428e-a99a-3af6a910a4fe",
+        "description",
+        "share",
+        "6a1efb09-4cc0-4ae1-971e-078d79cc4f78"
+      ],
+      "settings": {
+        "enable_sticky_info": true,
+        "media_size": "large",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "gallery_layout": "thumbnail_slider",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "mobile_thumbnails": "hide",
+        "hide_variants": true,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 12
+      }
+    },
+    "16886045527feab8f1": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1688661948990f08f2": {
+      "type": "apps",
+      "blocks": {
+        "9594167b-8881-4305-83ac-bc6fe51ceae0": {
+          "type": "shopify:\/\/apps\/rivo-product-reviews-app-ugc\/blocks\/reviews-widget\/5f785e18-66cc-4519-8181-565d1cce1705",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "9594167b-8881-4305-83ac-bc6fe51ceae0"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "related-products": {
+      "type": "related-products",
+      "settings": {
+        "heading": "You may also like",
+        "heading_size": "h2",
+        "products_to_show": 10,
+        "columns_desktop": 5,
+        "color_scheme": "background-1",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": true,
+        "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 28
+      }
+    }
+  },
+  "order": [
+    "main",
+    "16886045527feab8f1",
+    "1688661948990f08f2",
+    "related-products"
+  ]
+}
